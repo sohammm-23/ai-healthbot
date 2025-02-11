@@ -76,7 +76,7 @@ Google Translate API: For enabling multilingual support and translations.
 ## 🛠️ Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/AI-Health-Assistant.git
+   git clone https://github.com/adibshaikh0313/AI-Health-Assistant.git 
 2. pip install -r requirements.txt
 3. streamlit run chat.py
 
